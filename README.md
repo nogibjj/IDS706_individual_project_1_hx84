@@ -5,10 +5,19 @@
 ![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/test.yml/badge.svg)
 
 ## Requirements
-* Python script using Polars for descriptive statistics
-* Read a dataset (CSV or Excel)
-* Generate summary statistics (mean, median, standard deviation)
-* Create at least one data visualization
+* The project structure must include the following files:
+    - Jupyter Notebook with: 
+        + Cells that perform descriptive statistics using Polars or Panda.
+        + Tested by using nbval plugin for pytest
+    - Makefile with the following:
+        + Run all tests (must test notebook and script and lib)
+        + Formats code with Python blackLinks to an external site.
+        + Lints code with RuffLinks to an external site.
+        + Installs code via:  pip install -r requirements.txt
+    - test_script.py to test script
+    - est_lib.py to test library
+    - Pinned requirements.txt
+    - Gitlab Actions performs all four Makefile commands with badges for each one in the README.md
 
 ## Brief Introduction
 
