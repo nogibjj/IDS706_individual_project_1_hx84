@@ -47,8 +47,8 @@ In [`src/main.py`](src/main.py), This main.py script is used to read data from a
 
 There are three kinds of tests in this project.
 
-* [test_lib.py]("src/test_lib.py"): this script is used to test functions in lib.py which contains functions shared by [`main.py`]("src/main.py") and [`python_ds_project_1.ipynb`]("python_ds_project_1.ipynb")
+* [test_lib.py](src/test_lib.py): this script is used to test functions in lib.py which contains functions shared by [`main.py`](src/main.py) and [`python_ds_project_1.ipynb`](python_ds_project_1.ipynb)
 
-* [test_main.py]("src/test_main.py"): this script is used to test main if it successfully generate three figures and one PDF report.
+* [test_main.py](src/test_main.py): this script is used to test main if it successfully generate three figures and one PDF report.
 
-* [test_notebook.py]("src/test_notebook.py"): this script is used to test if the output of jupyter notebook is the same as the saved output.
+* [test_notebook.py](src/test_notebook.py): this script is used to test if the output of jupyter notebook is the same as the saved output.
