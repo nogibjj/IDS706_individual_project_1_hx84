@@ -1,8 +1,8 @@
 # IDS706_individual_project_1
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/CICD.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/format.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/lint.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/test.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_individual_project_1_hx84/actions/workflows/CICD.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_individual_project_1_hx84/actions/workflows/format.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_individual_project_1_hx84/actions/workflows/lint.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_individual_project_1_hx84/actions/workflows/test.yml/badge.svg)
 
 ## Requirements
 * The project structure must include the following files:
