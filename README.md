@@ -66,7 +66,7 @@ There are three kinds of tests in this project.
 
 * [test_lib.py](src/test_lib.py): this script is used to test functions in lib.py which contains functions shared by [`main.py`](src/main.py) and [`python_ds_project_1.ipynb`](python_ds_project_1.ipynb)
 
-* [test_main.py](src/test_main.py): this script is used to test main if it successfully generate three figures and one PDF report.
+* [test_script.py](src/test_script.py): this script is used to test main if it successfully generate three figures and one PDF report.
 
 * (**Deprecated**) [test_notebook.py](src/test_notebook.py): This script was used to test if the output of a Jupyter notebook matches the saved output. It has been replaced by a new method `python -m pytest --nvbal *.ipynb`in [Makefile](Makefile).
 
