@@ -12,6 +12,7 @@ lint:
 
 test:
 	python -m pytest -vv src/
+	python -m pytest -vv --nbval *.ipynb || true
 	rm -rf *.png *.pdf
 
 run:
