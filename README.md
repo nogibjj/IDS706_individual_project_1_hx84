@@ -68,11 +68,11 @@ There are three kinds of tests in this project.
 
 * [test_main.py](src/test_main.py): this script is used to test main if it successfully generate three figures and one PDF report.
 
-* [test_notebook.py](src/test_notebook.py): this script is used to test if the output of jupyter notebook is the same as the saved output.
+* (**Deprecated**) [test_notebook.py](src/test_notebook.py): This script was used to test if the output of a Jupyter notebook matches the saved output. It has been replaced by a new method `python -m pytest --nvbal *.ipynb`in [Makefile](Makefile).
 
 
 ## 🚀 Project Demo Video
 
 Click the thumbnail below to watch the project demonstration video on YouTube:
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/vTlRigKIias/mq2.webp?sqp=CLzlmLcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACuAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD9dkEZPz0JLC67t88eSi7cEQq_Ng)](https://youtu.be/vTlRigKIias "Watch on YouTube")
+[![Watch the video](https://i9.ytimg.com/vi_webp/vTlRigKIias/mq2.webp?sqp=CIiJqbcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACuAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4s0KYa8ADELQoEYoGMAZHi50Qvw)](https://youtu.be/vTlRigKIias "Watch on YouTube")
