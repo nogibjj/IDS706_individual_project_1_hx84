@@ -75,4 +75,4 @@ There are three kinds of tests in this project.
 
 Click the thumbnail below to watch the project demonstration video on YouTube:
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/vTlRigKIias/mq2.webp?sqp=CIiJqbcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACuAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB4s0KYa8ADELQoEYoGMAZHi50Qvw)](https://youtu.be/vTlRigKIias "Watch on YouTube")
+[Watch the video](https://youtu.be/vTlRigKIias "Watch on YouTube")
